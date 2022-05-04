@@ -7,6 +7,7 @@ A-Z  Tableau project for real life use case of extractingsales insights for a ha
 * [Motivation](#motivation)
 * [About the Data](#about-the-data)
 * [Challanges](#challenges)
+* [A Look at our Dashboards](#a-look-at-our-dashboards)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -29,6 +30,14 @@ We have five csv files:
 
 * Data Cleaning in MySQL 
 * ETL in Tableau
+
+
+## A Look at our Dashboards
+
+![alt text](Images/Revenue_Dashboard.png)
+
+
+![alt text](Images/Profit_Dashboard.png)
 
 
 ## Acknowledgements
