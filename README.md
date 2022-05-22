@@ -1,6 +1,6 @@
 # Tableau-Sales-Insights-Project
 
-A-Z  Tableau project for real life use case of extractingsales insights for a hardware supplier company.
+A-Z  Tableau project for real life use case of extracting sales insights for a hardware supplier company.
 
 ## Table of Contents
 
